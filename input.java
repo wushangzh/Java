@@ -9,7 +9,7 @@ public class input {
             replyString = "正确!";
         }else{
             replyString = "错了!!!\n";
-            replyString += "正确答案为： " + ans;
+            replyString += "正确答案为： " + 8;
         }
         JOptionPane.showMessageDialog(null, replyString);
     }
