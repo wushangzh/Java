@@ -1,6 +1,6 @@
 import javax.swing.JOptionPane;
 
-public class input {
+public class planet {
     public static void main(String[] args){
         String answerString = JOptionPane.showInputDialog("太阳系有几个行星？");
         String replyString;
